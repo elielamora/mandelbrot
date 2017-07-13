@@ -88,9 +88,7 @@ public class Main {
 
 
     /**
-     * use csv mnist
-     *
-     * @param args
+     * Main Method
      */
     public static void main(String ... args){
         long startTime = System.currentTimeMillis();
